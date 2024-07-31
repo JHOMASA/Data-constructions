@@ -33,3 +33,5 @@ cases are more common. The scatter plot shows a general increase in the vaariabl
 # Bar chart considering the number of existence  demolish ilegal constructions during each month   
 In the present bar chart the number of ilegal constructions considering the demolish during each month shows a highest value november around 350 and as the lowest one September close to 50 which mean that is neccesary review
 for further analysis why during this month represent a highest number of demolish.
+# Tendency between respect new ilegal constructions identified each month vs the demolish construction during each month
+The number of illegal new constructions identified during each month shows the highest tendency instead of the demolished. Nevertheless, during February the number of license renovations reached the number of demotions around 50. Furthermore, the highest number of licenses identified was in September 
